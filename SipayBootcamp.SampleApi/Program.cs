@@ -1,6 +1,6 @@
 using FluentValidation;
-using SipayBootcamp.SampleApi.Model;
-using SipayBootcamp.SampleApi.Validators;
+using SipayBootcamp.AssignmentApi.Model;
+using SipayBootcamp.AssignmentApi.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 

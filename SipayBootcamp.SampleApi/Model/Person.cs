@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 
-namespace SipayBootcamp.SampleApi.Model
+namespace SipayBootcamp.AssignmentApi.Model
 {
     public class Person
     {

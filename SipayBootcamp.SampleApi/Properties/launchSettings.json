@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "SipayBootcamp.SampleApi": {
+    "SipayBootcamp.AssignmentApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

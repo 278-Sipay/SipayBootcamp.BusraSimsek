@@ -1,8 +1,8 @@
 ﻿using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
-using SipayBootcamp.SampleApi.Model;
+using SipayBootcamp.AssignmentApi.Model;
 
-namespace SipayBootcamp.SampleApi.Controllers
+namespace SipayBootcamp.AssignmentApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

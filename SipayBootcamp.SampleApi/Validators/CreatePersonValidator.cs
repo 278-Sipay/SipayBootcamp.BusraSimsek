@@ -1,8 +1,8 @@
 ﻿using FluentValidation;
-using SipayBootcamp.SampleApi.Model;
+using SipayBootcamp.AssignmentApi.Model;
 using System.Text.RegularExpressions;
 
-namespace SipayBootcamp.SampleApi.Validators
+namespace SipayBootcamp.AssignmentApi.Validators
 {
     public class CreatePersonValidator : AbstractValidator<Person>
     {
